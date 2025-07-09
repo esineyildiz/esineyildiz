@@ -10,7 +10,7 @@
 **Reserach & Thesis**  
 - My thesis explored how syntactic and semantic patterns emerge in static word embeddings like fastText and GloVe.  
 - I built a custom evaluation pipeline for morpheme-based transformations, analyzing their generalizability across categories.  
-📂 [This repository](#morphology-word-embeddings) includes the full pipeline: morpheme vector creation, analogy testing, and semantic/syntactic evaluations.    
+📂 [This repository](https://github.com/esineyildiz/morphology-word-embeddings) includes the full pipeline: morpheme vector creation, analogy testing, and semantic/syntactic evaluations.    
 
 **Current Focus**  
 - Gaining hands-on experience with Large Language Models (LLMs)  
