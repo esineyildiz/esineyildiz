@@ -36,7 +36,7 @@ Theoretical & hands-on experience in data analysis gained by coursework at [Inte
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=Let's+Connect!)](https://git.io/typing-svg)  
 📧 Email: esinezgiyildiz@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/esinezgiyildiz/](https://www.linkedin.com/in/esin-ezgi-yildiz/)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/esinezgiyildiz/](https://www.linkedin.com/in/esin-ezgi-yildiz/))  
 
 ![](https://komarev.com/ghpvc/?username=esineyildiz&color=blueviolet)
 
