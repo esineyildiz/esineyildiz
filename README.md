@@ -6,19 +6,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=About+me)](https://git.io/typing-svg)  
 
 👋 I'm a Cognitive Science graduate with a strong foundation in linguistics, programming, and data-driven research. My academic background combines **computational linguistics** and **neuroscience**, giving me a unique perspective on language modelling.
-
-**Reserach & Thesis**  
-- My thesis explored how syntactic and semantic patterns emerge in static word embeddings like fastText and GloVe.  
-- I built a custom evaluation pipeline for morpheme-based transformations, analyzing their generalizability across categories.  
-📂 [This repository](https://github.com/esineyildiz/morphology-word-embeddings) includes the full pipeline: morpheme vector creation, analogy testing, and semantic/syntactic evaluations.    
+   
 
 **Current Focus**  
-- Gaining hands-on experience with Large Language Models (LLMs)  
-- Expanding my skills in Python, PyTorch, and deep learning
+
+- Building RAG pipelines and conversational AI systems for healthcare applications
+- Working with retrieval optimization, multilingual embeddings, and LLM integration
 
 **What I'm Looking For** 
 
-I'm now looking for opportunities where I can contribute to **NLP research**, **language technology**, or **data analysis** — especially roles that intersect with **AI, linguistics, and human language understanding**. I'm eager to apply my skills, keep learning, and grow in the tech industry.  
+I'm looking for roles in conversational AI, NLP engineering, or healthcare AI, especially building RAG systems, chatbots, or assistants that help real people. I care about work that has impact beyond just cool tech  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=My+Skills)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=D3B5EE&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)  
