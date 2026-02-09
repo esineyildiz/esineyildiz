@@ -15,7 +15,7 @@
 
 **What I'm Looking For** 
 
-I'm looking for roles in conversational AI, NLP engineering, or healthcare AI, especially building RAG systems, chatbots, or assistants that help real people. I care about work that has impact beyond just cool tech  
+I'm looking for roles in conversational AI, NLP engineering, or healthcare AI, especially building RAG systems, chatbots, or assistants that help real people. I care about work that has an impact   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=My+Skills)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=D3B5EE&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)  
