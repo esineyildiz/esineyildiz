@@ -1,6 +1,7 @@
-![esin_transparent (1)](https://github.com/user-attachments/assets/fe008023-72eb-490c-8ad8-f1cd81480ee4)
+![banner_retro_compact](https://github.com/user-attachments/assets/b2d7488d-c96e-4462-b96c-5521e42bcf2b)
+
 🎓 MSc in Cognitive (Neuro)Science – University of Trento (March 2025) / BA in Linguistics - Hacettepe University (June 2021)  
-💻 Passionate about Natural Language Processing, word embeddings, language models & cognition  
+💻 Passionate about Natural Language Processing research and applications
 📍 Based in Trento, Italy  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=About+me)](https://git.io/typing-svg)  
