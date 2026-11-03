@@ -1,8 +1,6 @@
-![Retro terminal window that reads: Hello World! I'm Esin](https://github.com/user-attachments/assets/b2d7488d-c96e-4462-b96c-5521e42bcf2b)
+![Retro terminal window that reads: Hello World! I'm Esin](https://github.com/user-attachments/assets/b2d7488d-c96e-4462-b96c-5521e42bcf2b) 
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-B3209C?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=weV4dboAAAAJ)
-[![STRAGMED paper](https://img.shields.io/badge/STRAGMED_paper-6B2BA8?style=for-the-badge&logo=doi&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-30710-1_15)
-[![STRAGMED code](https://img.shields.io/badge/STRAGMED_code-2A0F57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDA-FBK/STRAGMED--STandardizedRAGMEDical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16BFD0?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/esin-ezgi-yildiz/)
 [![Email](https://img.shields.io/badge/Email-E0268F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esinezgiyildiz@gmail.com)
 
@@ -35,16 +33,12 @@ A simple RAG pipeline for medical domains, meant as a standard baseline.
 ## ![> history](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+history)
 
 ```text
-2026  PhD, Computer Science, University of Milano-Bicocca
-2025  MSc, Cognitive Science, University of Trento
-2021  BA, Linguistics, Hacettepe University
+2026 -  PhD, Computer Science, University of Milano-Bicocca
+2022 - 2025  MSc, Cognitive Science, University of Trento
+2017 - 2021  BA, Linguistics, Hacettepe University
 ```
 
 Along the way I collected EEG and eye-tracking data at the [ESOGÜ Cognitive and Behavioral Application Center](https://bildam.esogu.edu.tr/en) and learned MEG and fMRI analysis at [CIMeC](https://www.cimec.unitn.it/en/14/the-center).
 
-## ![> ping esin](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+ping+esin)
-
-- Email: [esinezgiyildiz@gmail.com](mailto:esinezgiyildiz@gmail.com)
-- LinkedIn: [esin-ezgi-yildiz](https://www.linkedin.com/in/esin-ezgi-yildiz/)
 
 ![Profile view counter](https://komarev.com/ghpvc/?username=esineyildiz&color=blueviolet&style=for-the-badge&label=VISITORS)
