@@ -33,9 +33,9 @@ A simple RAG pipeline for medical domains, meant as a standard baseline.
 ## ![> history](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+history)
 
 ```text
-2026 -  PhD, Computer Science, University of Milano-Bicocca
-2022 - 2025  MSc, Cognitive Science, University of Trento
-2017 - 2021  BA, Linguistics, Hacettepe University
+2026 - Present  PhD, Computer Science, University of Milano-Bicocca
+2022 - 2025     MSc, Cognitive Science, University of Trento
+2017 - 2021     BA, Linguistics, Hacettepe University
 ```
 
 Along the way I collected EEG and eye-tracking data at the [ESOGÜ Cognitive and Behavioral Application Center](https://bildam.esogu.edu.tr/en) and learned MEG and fMRI analysis at [CIMeC](https://www.cimec.unitn.it/en/14/the-center).
