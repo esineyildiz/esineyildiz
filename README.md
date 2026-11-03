@@ -1,46 +1,50 @@
-![banner_retro_compact](https://github.com/user-attachments/assets/b2d7488d-c96e-4462-b96c-5521e42bcf2b)
+![Retro terminal window that reads: Hello World! I'm Esin](https://github.com/user-attachments/assets/b2d7488d-c96e-4462-b96c-5521e42bcf2b)
 
-🎓 MSc in Cognitive (Neuro)Science – University of Trento (March 2025) / BA in Linguistics - Hacettepe University (June 2021)  
-💻 Passionate about Natural Language Processing research and applications
-📍 Based in Trento, Italy  
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-B3209C?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=weV4dboAAAAJ)
+[![STRAGMED paper](https://img.shields.io/badge/STRAGMED_paper-6B2BA8?style=for-the-badge&logo=doi&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-30710-1_15)
+[![STRAGMED code](https://img.shields.io/badge/STRAGMED_code-2A0F57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDA-FBK/STRAGMED--STandardizedRAGMEDical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16BFD0?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/esin-ezgi-yildiz/)
+[![Email](https://img.shields.io/badge/Email-E0268F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esinezgiyildiz@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=About+me)](https://git.io/typing-svg)  
+## ![> whoami](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+whoami)
 
-👋 I'm a Cognitive Science graduate with a strong foundation in linguistics, programming, and data-driven research. My academic background combines **computational linguistics** and **neuroscience**, giving me a unique perspective on language modelling.
-   
+Hi! I'm a PhD student in Computer Science at the [University of Milano-Bicocca](https://www.unimib.it/), based in Trento at [Fondazione Bruno Kessler](https://www.fbk.eu/). I work on LLMs for clinical settings, often in Italian.
 
-**Current Focus**  
+## ![> cat research_interests.txt](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+cat+research_interests.txt)
 
-- Building RAG pipelines and conversational AI systems for healthcare applications
-- Working with retrieval optimization, multilingual embeddings, and LLM integration
+- Checking LLM answers against their sources
+- Getting models to abstain when the evidence is thin
+- Combining LLMs with medical ontologies and official tables
+- Evaluating these systems with clinicians
 
-**What I'm Looking For** 
+## ![> ./stragmed --explain](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+.%2Fstragmed+--explain)
 
-I'm looking for roles in conversational AI, NLP engineering, or healthcare AI, especially building RAG systems, chatbots, or assistants that help real people. I care about work that has an impact   
+**[STRAGMED: Standardizing Retrieval-Augmented Generation Pipelines in Medical Domains](https://link.springer.com/chapter/10.1007/978-3-032-30710-1_15)**  
+Leonardo Sanna, Esin Ezgi Yildiz, Mauro Dragoni. *AIME 2026*. [Code](https://github.com/IDA-FBK/STRAGMED--STandardizedRAGMEDical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=My+Skills)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=D3B5EE&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)  
+A simple RAG pipeline for medical domains, meant as a standard baseline.
 
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
-  href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"
-                                                                                                                                                href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>  
+![Animated diagram of the STRAGMED pipeline: a query goes to vector, BM25 and HyDE retrievers, each stream is reranked, the streams are fused with Reciprocal Rank Fusion at k=0, and a final reranker returns the top documents](assets/stragmed-pipeline.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=D3B5EE&width=435&lines=Neuroimaging)](https://git.io/typing-svg)  
-**Eye-tracking & EEG**  
-Data collection experience at [ESOGÜ Cognitive and Behavioral Application Center](https://bildam.esogu.edu.tr/en)  
-**MEG & fMRI**  
-Theoretical & hands-on experience in data analysis gained by coursework at [Interdepartmental Center for Mind/Brain Sciences (CIMeC)](https://www.cimec.unitn.it/en/14/the-center)  
+## ![> ls projects/](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+ls+projects%2F)
 
+- [talk2DergiPark](https://github.com/esineyildiz/talk2dergipark): Chrome extension for chatting with Turkish academic papers
+- [PubMedBERT on PubMedQA](https://github.com/esineyildiz/PubMedBERT-fine-tuned-on-PubMedQA): fine-tuning for biomedical question answering
+- [morphology-word-embeddings](https://github.com/esineyildiz/morphology-word-embeddings): word embeddings and morphology, from my MSc thesis
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=435&lines=Let's+Connect!)](https://git.io/typing-svg)  
-📧 Email: esinezgiyildiz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/esin-ezgi-yildiz/)  
+## ![> history](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+history)
 
-![](https://komarev.com/ghpvc/?username=esineyildiz&color=blueviolet)
+```text
+2026  PhD, Computer Science, University of Milano-Bicocca
+2025  MSc, Cognitive Science, University of Trento
+2021  BA, Linguistics, Hacettepe University
+```
 
+Along the way I collected EEG and eye-tracking data at the [ESOGÜ Cognitive and Behavioral Application Center](https://bildam.esogu.edu.tr/en) and learned MEG and fMRI analysis at [CIMeC](https://www.cimec.unitn.it/en/14/the-center).
 
+## ![> ping esin](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C36DE6&width=600&repeat=false&lines=%3E+ping+esin)
 
+- Email: [esinezgiyildiz@gmail.com](mailto:esinezgiyildiz@gmail.com)
+- LinkedIn: [esin-ezgi-yildiz](https://www.linkedin.com/in/esin-ezgi-yildiz/)
 
-
-
-
+![Profile view counter](https://komarev.com/ghpvc/?username=esineyildiz&color=blueviolet&style=for-the-badge&label=VISITORS)
